@@ -2,5 +2,5 @@
 
 Licenciado en contaduría pública. Trabajo en la industria financiera hace más de 10 años. Actualmente lidero un equipo de análisis contable en un centro de servicios regional. 
 
-En proceso de ser developer. En proceso de formación en CENFOTEC hace ya más de un año. 
+En proceso de ser desarrollador. En proceso de formación en CENFOTEC hace ya más de un año. 
 
