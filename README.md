@@ -4,4 +4,4 @@ Licenciado en contaduría pública. Trabajo en la industria financiera hace más
 
 En proceso de ser desarrollador. Formándome en CENFOTEC hace ya más de un año. 
 
-Estoy en el grupo 3 de la clase
+Estoy en el grupo 3 de la clase.
